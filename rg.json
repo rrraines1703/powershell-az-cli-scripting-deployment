@@ -1,0 +1,11 @@
+{
+  "id": "/subscriptions/120d94af-1ceb-4508-ae52-e0fe261cc0b0/resourceGroups/rain-0820-ps-rg",
+  "location": "eastus",
+  "managedBy": null,
+  "name": "rain-0820-ps-rg",
+  "properties": {
+    "provisioningState": "Succeeded"
+  },
+  "tags": null,
+  "type": "Microsoft.Resources/resourceGroups"
+}
