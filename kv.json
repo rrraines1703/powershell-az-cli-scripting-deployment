@@ -1,0 +1,82 @@
+{
+  "id": "/subscriptions/120d94af-1ceb-4508-ae52-e0fe261cc0b0/resourceGroups/rarain-0820-ps-rg/providers/Microsoft.KeyVault/vaults/rarain-lc0820-ps-kv",
+  "location": "eastus",
+  "name": "rarain-lc0820-ps-kv",
+  "properties": {
+    "accessPolicies": [
+      {
+        "applicationId": null,
+        "objectId": "17bcd45c-7c64-43dd-bef0-a860f6721d80",
+        "permissions": {
+          "certificates": [
+            "get",
+            "list",
+            "delete",
+            "create",
+            "import",
+            "update",
+            "managecontacts",
+            "getissuers",
+            "listissuers",
+            "setissuers",
+            "deleteissuers",
+            "manageissuers",
+            "recover"
+          ],
+          "keys": [
+            "get",
+            "create",
+            "delete",
+            "list",
+            "update",
+            "import",
+            "backup",
+            "restore",
+            "recover"
+          ],
+          "secrets": [
+            "get",
+            "list",
+            "set",
+            "delete",
+            "backup",
+            "restore",
+            "recover"
+          ],
+          "storage": [
+            "get",
+            "list",
+            "delete",
+            "set",
+            "update",
+            "regeneratekey",
+            "setsas",
+            "listsas",
+            "getsas",
+            "deletesas"
+          ]
+        },
+        "tenantId": "63492260-4118-4253-a2fb-760477f4a13c"
+      }
+    ],
+    "createMode": null,
+    "enablePurgeProtection": null,
+    "enableRbacAuthorization": null,
+    "enableSoftDelete": false,
+    "enabledForDeployment": true,
+    "enabledForDiskEncryption": null,
+    "enabledForTemplateDeployment": null,
+    "networkAcls": null,
+    "privateEndpointConnections": null,
+    "provisioningState": "Succeeded",
+    "sku": {
+      "name": "standard"
+    },
+    "softDeleteRetentionInDays": 90,
+    "tenantId": "63492260-4118-4253-a2fb-760477f4a13c",
+    "vaultUri": "https://rarain-lc0820-ps-kv.vault.azure.net/"
+  },
+  "resourceGroup": "rarain-0820-ps-rg",
+  "tags": {},
+  "type": "Microsoft.KeyVault/vaults"
+}

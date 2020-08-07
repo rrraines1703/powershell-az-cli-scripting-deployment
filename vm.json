@@ -1,0 +1,15 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/120d94af-1ceb-4508-ae52-e0fe261cc0b0/resourceGroups/rarain-0820-ps-rg/providers/Microsoft.Compute/virtualMachines/rarain-0820-ps-vm",
+  "identity": {
+    "systemAssignedIdentity": "af27c346-17c3-4559-a8d0-194eab8084d0",
+    "userAssignedIdentities": {}
+  },
+  "location": "eastus",
+  "macAddress": "00-0D-3A-57-9C-DC",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.4",
+  "publicIpAddress": "13.92.46.4",
+  "resourceGroup": "rarain-0820-ps-rg",
+  "zones": ""
+}
